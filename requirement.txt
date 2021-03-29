@@ -4,7 +4,7 @@ falcon==1.4.1
 gunicorn==19.9.0
 httpie==1.0.2
 idna==2.7
-Pygments==2.3.0
+Pygments==2.7.4
 python-mimeparse==1.6.0
 requests==2.20.1
 six==1.11.0
